@@ -140,7 +140,7 @@ const file_tax_proto_rawDesc = "" +
 	"\btax_rate\x18\x02 \x01(\x01R\ataxRate2C\n" +
 	"\n" +
 	"TaxService\x125\n" +
-	"\x10CalculateTripTax\x12\x0f.tax.TaxRequest\x1a\x10.tax.TaxResponseB+Z)https://github.com/Kitten-King/tax_sdk/pbb\x06proto3"
+	"\x10CalculateTripTax\x12\x0f.tax.TaxRequest\x1a\x10.tax.TaxResponseB#Z!github.com/Kitten-King/tax_sdk/pbb\x06proto3"
 
 var (
 	file_tax_proto_rawDescOnce sync.Once
